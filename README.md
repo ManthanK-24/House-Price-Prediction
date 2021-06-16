@@ -5,7 +5,7 @@ DataSet consisted of various **Mumbai's house prices** and the **features** that
 **Features** such as Area, Number of Bedrooms, Lift Availability, Car Parking Availability etc .. all of them contributed in Price of a house
  
 # DataSet
-- [Link of DataSet](https://www.kaggle.com/sameep98/housing-prices-in-mumbai)
+- [Link of DataSet](https://github.com/ManthanK-24/House-Price-Prediction/blob/main/Mumbai1.csv)
 # Python Libraries:=
 - **Numpy**
 - **Pandas**
