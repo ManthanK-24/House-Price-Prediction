@@ -18,8 +18,8 @@ DataSet consisted of various **Mumbai's house prices** and the **features** that
 - **Outliers Removal** 
 - **One-Hot Enconding** 
 - **Linear Regression!** <br/>
-# Price-Vs-Area
+<!--# Price-Vs-Area
 ![price vs area](https://github.com/ManthanK-24/House-Price-Prediction/blob/main/hpp_area.png?raw=true)<br/><br/><br/>
 # Price-Vs-No-of-rooms
 ![price vs rooms](https://github.com/ManthanK-24/House-Price-Prediction/blob/main/hpp_rooms.png?raw=true)<br/>
-
+-->
